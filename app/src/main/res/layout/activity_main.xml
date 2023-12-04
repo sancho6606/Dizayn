@@ -28,6 +28,7 @@
         android:layout_height="wrap_content">
 
         <RelativeLayout
+            android:paddingLeft="5dp"
             android:id="@+id/relativelayhotdog"
             android:background="@drawable/cardbackround"
             android:layout_width="match_parent"
@@ -43,7 +44,7 @@
                 android:textSize="25dp"
                 android:textStyle="bold"
                 android:textColor="@color/white"
-                android:text="HOT-DOG"
+                android:text="Хот-Доги"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"></TextView>
             <ImageView
@@ -86,7 +87,7 @@
                     android:textSize="25dp"
                     android:textStyle="bold"
                     android:textColor="@color/white"
-                    android:text="BURGER"
+                    android:text="Бургеры"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"></TextView>
                 <ImageView
@@ -115,6 +116,7 @@
             android:layout_height="wrap_content">
 
             <RelativeLayout
+                android:paddingLeft="15dp"
                 android:id="@+id/relativelayshaverma"
                 android:background="@drawable/cardbackround"
                 android:layout_width="match_parent"
@@ -130,7 +132,7 @@
                     android:textSize="25dp"
                     android:textStyle="bold"
                     android:textColor="@color/white"
-                    android:text="SHAVERMA"
+                    android:text="Шаурмы"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"></TextView>
                 <ImageView

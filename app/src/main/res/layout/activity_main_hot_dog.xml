@@ -25,7 +25,7 @@
 
             <androidx.cardview.widget.CardView
 
-                app:cardBackgroundColor="#4569"
+                app:cardBackgroundColor="#1111"
                 android:layout_weight="1"
                 app:cardUseCompatPadding="true"
                 app:cardElevation="3dp"
@@ -46,17 +46,17 @@
                             android:layout_marginBottom="40dp"
                             android:layout_marginLeft="55dp"
                             android:id="@+id/textview4"
-                            android:paddingLeft="15dp"
-                            android:paddingRight="15dp"
+                            android:paddingLeft="50dp"
+                            android:paddingRight="22dp"
                             android:paddingBottom="15dp"
                             android:paddingTop="15dp"
                             android:background="@drawable/textview"
                             android:fontFamily="@font/text2"
                             android:layout_centerVertical="true"
-                            android:textSize="10dp"
+                            android:textSize="15dp"
                             android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:text="OBICHNI\nHOT-DOG\n     12 000"
+                            android:text="Хот-Дог\n325.98 ₽"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"></TextView>
                         <ImageView
@@ -89,7 +89,7 @@
                             android:textSize="15dp"
                             android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:text="DVOYNOY\nHOT-DOG\n     15 000"
+                            android:text="Хот-Дог\nс   двумя\nсосисками\n467.84 ₽"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"></TextView>
                         <ImageView
@@ -122,7 +122,7 @@
                             android:textSize="15dp"
                             android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:text="3   SASISKA\n HOT-DOG\n      17 000"
+                            android:text="Хот-Дог\nс   тремя\nсосисками\n518.37 ₽"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"></TextView>
                         <ImageView
@@ -155,7 +155,7 @@
                             android:textSize="15dp"
                             android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:text="  KATLET\nHOT-DOG\n     19 000"
+                            android:text="Хот-Дог\nс   катлетом\n685.73 ₽"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"></TextView>
                         <ImageView
@@ -188,7 +188,7 @@
                             android:textSize="15dp"
                             android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:text="  KATLET\nDVOYNOY\nHOT-DOG\n     21 000"
+                            android:text="Хот-Дог\nс   двумя\nкатлетами\n739.12 ₽"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"></TextView>
                         <ImageView

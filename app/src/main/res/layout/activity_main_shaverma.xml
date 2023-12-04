@@ -51,7 +51,7 @@
                         android:textSize="15dp"
                         android:textStyle="bold"
                         android:textColor="@color/white"
-                        android:text="   OBICHNI\nSHAVERMA\n       20 000"
+                        android:text="Шаурма\n523.87 ₽"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"></TextView>
                     <ImageView
@@ -84,7 +84,7 @@
                         android:textSize="15dp"
                         android:textStyle="bold"
                         android:textColor="@color/white"
-                        android:text="     SIRNIY\nSHAVERMA\n      24 000"
+                        android:text="Сырная\nШаурма\n689.15 ₽"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"></TextView>
                     <ImageView
